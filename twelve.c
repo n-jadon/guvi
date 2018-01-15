@@ -15,7 +15,7 @@ int main()
     }
 
     if (o == r)
-        printf("Palindrome");
+        printf("Yes");
     else
         printf("No");
     
